@@ -1,0 +1,11 @@
+{
+    "paths": {
+        "format_path": "LogicData/Format.xlsx",
+        "decorate_path": "LogicData/Decorate.xlsx"
+    },
+    "params": {
+        "Handling": 60,
+        "UPUSDL": 34.3,
+        "UPUSOH": 162.8
+    }
+}
