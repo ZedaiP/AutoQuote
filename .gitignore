@@ -5,6 +5,8 @@ Output*.xlsx
 output.xlsx
 setup/
 Quotation/
+main.build/
+main.dist/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
