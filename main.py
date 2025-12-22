@@ -223,7 +223,7 @@ class ExcelWorker(QThread):
                     cell.alignment = style['alignment']
                     cell.number_format = style['number_format']
 
-                # 计算逻辑
+                # 计算
                 B_labor = find_b_column_header(ws, "B    Labor time(s/pcs)") or 0
                 T_labor = find_b_column_header(ws, "T     Labor time(s/pcs)") or 0
                 G_labor = find_b_column_header(ws, "金 Labor time(s/pcs)") or 0
