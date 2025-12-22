@@ -28,15 +28,14 @@ def find_b_column_header(ws, target_text):
     return result
 
 if __name__ == "__main__":
-    standard_font = Font(name="Calibri", size=12.5)
-    standard_border = Border(
-        left=Side(style='thin'),
-        right=Side(style='thin'),
-        top=Side(style='thin'),
-        bottom=Side(style='thin')
-    )
 
-
+    # standard_font = Font(name="Calibri", size=12.5)
+    # standard_border = Border(
+    #     left=Side(style='thin'),
+    #     right=Side(style='thin'),
+    #     top=Side(style='thin'),
+    #     bottom=Side(style='thin')
+    # )
     result_path = 'LogicData/Format.xlsx'
     decorate_path = 'LogicData/Decorate.xlsx'
 

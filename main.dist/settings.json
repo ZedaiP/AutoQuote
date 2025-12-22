@@ -1,0 +1,16 @@
+{
+    "paths": {
+        "format_path": "LogicData/FormatIE.xlsx",
+        "decorate_path": "LogicData/DecorateIE.xlsx",
+        "format_path_tab2": "LogicData/FormatME.xlsx",
+        "decorate_path_tab2": "LogicData/DecorateME.xlsx"
+    },
+    "params": {
+        "Handling": 60,
+        "UPUSDL": 34.3,
+        "UPUSOH": 162.8,
+        "StencilQty": 2,
+        "SMTCarrierQty": 90,
+        "Qty": 27
+    }
+}
